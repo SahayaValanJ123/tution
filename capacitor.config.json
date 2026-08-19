@@ -1,0 +1,6 @@
+{
+  "appId": "com.tuitionregister.app",
+  "appName": "Tuition Register",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}

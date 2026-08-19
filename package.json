@@ -1,0 +1,14 @@
+{
+  "name": "tuition-register",
+  "version": "1.0.0",
+  "description": "Tuition Register - Attendance & Fee Tracker Native Web App",
+  "main": "index.html",
+  "scripts": {
+    "build:android": "npx cap copy android && cd android && ./gradlew assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
